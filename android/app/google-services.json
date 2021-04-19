@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059681385963",
+    "firebase_url": "https://n2-mobile-2dbf3-default-rtdb.firebaseio.com",
+    "project_id": "n2-mobile-2dbf3",
+    "storage_bucket": "n2-mobile-2dbf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059681385963:android:8d560c7c8c29ff18a9adae",
+        "android_client_info": {
+          "package_name": "com.maps.n2mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059681385963-m84362l95lk74ep32um3mqa48mpcjnhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxl6s31OG7sdMv2-yghWKdw_dujW3mjAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059681385963-m84362l95lk74ep32um3mqa48mpcjnhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

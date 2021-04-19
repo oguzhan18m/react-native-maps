@@ -28,6 +28,8 @@
 		AAAA0BFBEFB14A7B8BD1D3D4 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9913CCDE15894ACD8AC7C671 /* Octicons.ttf */; };
 		32A3F994DA5245208C2578DF /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 650A4A68A2AA4A70BD362F15 /* SimpleLineIcons.ttf */; };
 		61FF87F6EEC04D93A9D09B6A /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3236C50A1293473EA0E3D70C /* Zocial.ttf */; };
+		6F9F22F58A034D66A567495E /* DidactGothic-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A3D6D71E9E74649B9950D03 /* DidactGothic-Regular.ttf */; };
+		8763097974E14D06B5C9362D /* AlfaSlabOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3330F93A7A3473F99F7EB95 /* AlfaSlabOne-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +70,8 @@
 		9913CCDE15894ACD8AC7C671 /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		650A4A68A2AA4A70BD362F15 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		3236C50A1293473EA0E3D70C /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9A3D6D71E9E74649B9950D03 /* DidactGothic-Regular.ttf */ = {isa = PBXFileReference; name = "DidactGothic-Regular.ttf"; path = "../assets/fonts/DidactGothic-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B3330F93A7A3473F99F7EB95 /* AlfaSlabOne-Regular.ttf */ = {isa = PBXFileReference; name = "AlfaSlabOne-Regular.ttf"; path = "../assets/fonts/AlfaSlabOne-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +180,8 @@
 				9913CCDE15894ACD8AC7C671 /* Octicons.ttf */,
 				650A4A68A2AA4A70BD362F15 /* SimpleLineIcons.ttf */,
 				3236C50A1293473EA0E3D70C /* Zocial.ttf */,
+				9A3D6D71E9E74649B9950D03 /* DidactGothic-Regular.ttf */,
+				B3330F93A7A3473F99F7EB95 /* AlfaSlabOne-Regular.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -287,6 +293,8 @@
 				AAAA0BFBEFB14A7B8BD1D3D4 /* Octicons.ttf in Resources */,
 				32A3F994DA5245208C2578DF /* SimpleLineIcons.ttf in Resources */,
 				61FF87F6EEC04D93A9D09B6A /* Zocial.ttf in Resources */,
+				6F9F22F58A034D66A567495E /* DidactGothic-Regular.ttf in Resources */,
+				8763097974E14D06B5C9362D /* AlfaSlabOne-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
